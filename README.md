@@ -1,0 +1,4 @@
+- 👋 olá meu nome é @israelestudos
+- 👀 eu estou enteressadoem aprender novas linguagens.
+- 🌱 estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
+- :+1: Meu email de contato é israel.almeida.silva@escola.pr.gov.br
